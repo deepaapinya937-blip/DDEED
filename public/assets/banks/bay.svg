@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <defs>
+    <linearGradient id="bayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd000" />
+      <stop offset="100%" stop-color="#e5a800" />
+    </linearGradient>
+  </defs>
+  <rect width="140" height="140" rx="30" fill="url(#bayGrad)"/>
+  <!-- Krungsri Geometric Monogram -->
+  <path d="M70 26 L102 58 L70 90 L38 58 Z" fill="#4d3b2b"/>
+  <path d="M70 38 L90 58 L70 78 L50 58 Z" fill="#ffd000"/>
+  <rect x="64" y="52" width="12" height="12" fill="#4d3b2b"/>
+  <text x="70" y="124" font-family="'Prompt', 'Kanit', sans-serif" font-size="14" font-weight="900" fill="#3c2f24" text-anchor="middle" letter-spacing="1">กรุงศรี BAY</text>
+</svg>

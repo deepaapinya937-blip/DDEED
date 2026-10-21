@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <defs>
+    <linearGradient id="bblGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#19388a" />
+      <stop offset="100%" stop-color="#0c205a" />
+    </linearGradient>
+  </defs>
+  <rect width="140" height="140" rx="30" fill="url(#bblGrad)"/>
+  <!-- Bangkok Bank Lotus Bloom -->
+  <path d="M70 26 L100 78 L40 78 Z" fill="#ea580c"/>
+  <path d="M70 36 L92 74 L48 74 Z" fill="#ffffff"/>
+  <path d="M70 48 L84 72 L56 72 Z" fill="#ea580c"/>
+  <circle cx="70" cy="62" r="6" fill="#ffffff"/>
+  <text x="70" y="122" font-family="'Prompt', 'Kanit', sans-serif" font-size="14" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">กรุงเทพ BBL</text>
+</svg>

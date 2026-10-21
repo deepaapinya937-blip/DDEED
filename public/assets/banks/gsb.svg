@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <defs>
+    <linearGradient id="gsbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2d9b" />
+      <stop offset="100%" stop-color="#d60074" />
+    </linearGradient>
+  </defs>
+  <rect width="140" height="140" rx="30" fill="url(#gsbGrad)"/>
+  <circle cx="70" cy="70" r="54" fill="none" stroke="#ffffff" stroke-width="3" stroke-dasharray="6,4" opacity="0.6"/>
+  <!-- Royal Chatra Umbrella Emblem -->
+  <g fill="#ffffff" stroke="#ffffff" stroke-linejoin="round">
+    <line x1="70" y1="24" x2="70" y2="92" stroke-width="4"/>
+    <circle cx="70" cy="22" r="5" fill="#ffffff"/>
+    <path d="M54 40 Q70 28 86 40 Q70 48 54 40 Z" stroke-width="2"/>
+    <path d="M46 54 Q70 40 94 54 Q70 64 46 54 Z" stroke-width="2"/>
+    <path d="M40 70 Q70 54 100 70 Q70 82 40 70 Z" stroke-width="2"/>
+    <!-- Lotus Pedestal -->
+    <path d="M52 92 L88 92 L82 102 L58 102 Z" fill="#ffffff"/>
+  </g>
+  <text x="70" y="124" font-family="'Prompt', 'Kanit', sans-serif" font-size="14" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="2">ออมสิน GSB</text>
+</svg>

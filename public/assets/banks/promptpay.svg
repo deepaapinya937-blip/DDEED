@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <defs>
+    <linearGradient id="ppGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#003b70" />
+      <stop offset="100%" stop-color="#002244" />
+    </linearGradient>
+  </defs>
+  <rect width="140" height="140" rx="30" fill="url(#ppGrad)"/>
+  <g transform="translate(30, 24)">
+    <!-- White Top Arrow -->
+    <path d="M0 20 L24 44 L48 20 L36 20 L36 0 L12 0 L12 20 Z" fill="#ffffff"/>
+    <!-- Cyan Bottom Arrow -->
+    <path d="M80 50 L56 26 L32 50 L44 50 L44 70 L68 70 L68 50 Z" fill="#00b4ec"/>
+  </g>
+  <text x="70" y="122" font-family="'Prompt', 'Kanit', sans-serif" font-size="14" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="1">PROMPTPAY</text>
+</svg>

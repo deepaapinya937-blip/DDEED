@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <defs>
+    <linearGradient id="scbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58358e" />
+      <stop offset="100%" stop-color="#3c1d68" />
+    </linearGradient>
+  </defs>
+  <rect width="140" height="140" rx="30" fill="url(#scbGrad)"/>
+  <circle cx="70" cy="62" r="38" fill="none" stroke="#fec20c" stroke-width="4"/>
+  <!-- Chadok Flower / Star Emblem -->
+  <path d="M70 28 L78 48 L98 48 L82 60 L88 80 L70 68 L52 80 L58 60 L42 48 L62 48 Z" fill="#fec20c"/>
+  <text x="70" y="124" font-family="'Prompt', 'Kanit', sans-serif" font-size="16" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="2">SCB ไทยพาณิชย์</text>
+</svg>
